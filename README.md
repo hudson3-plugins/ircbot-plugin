@@ -1,4 +1,4 @@
-ircbot-plugin
-=============
+HUDSON IRC plugin: [wiki]
+=========================
 
-IRC Bot Plugin for Hudson
+[wiki]: https://wiki.hudson-ci.org/display/HUDSON/IRC+Plugin
