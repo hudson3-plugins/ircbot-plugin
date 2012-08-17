@@ -14,7 +14,7 @@ import net.sf.json.JSONObject;
 import org.kohsuke.stapler.StaplerRequest;
 
 /**
- * User property to assign an IRC nickname to a Hudson user.
+ * User property to assign an IRC nickname to a Jenkins user.
  * 
  * @author bruyeron (original author)
  * @author $Author$ (last change)
