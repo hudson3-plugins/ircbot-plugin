@@ -11,7 +11,7 @@
 
   <artifactId>ircbot</artifactId>
   <packaging>hpi</packaging>
-  <version>2.19-h-1-SNAPSHOT</version>
+  <version>2.19-h-1</version>
   <name>Hudson IRC Plugin</name>
   <description>A build status publisher that notifies channels on a IRC server</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/IRC+Plugin</url>
